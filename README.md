@@ -30,6 +30,20 @@ Phase 1 validation results — heartbeat reliability over 1,000+ cycles, threat 
 
 ---
 
+## The Engineering Behind This
+
+Traditional software development uses programming languages (Python, C++, Go) to define logic. AI agent engineering uses a different set of primitives — but the engineering discipline is the same. Building a system like Wintermute involves:
+
+**System Prompt Engineering** — Designing agent identities, behavioral constraints, operational boundaries, and decision-making frameworks entirely through structured natural language. Each agent in Wintermute has a distinct identity, chain of command, memory protocol, and security model — all defined through precision prompt architecture.
+
+**Cognitive Architecture Design** — Structuring how an AI system maintains state, processes information, and makes decisions across time. Wintermute's three-layer consciousness model (60-second heartbeat, daily reflection, monthly strategy) is an architectural solution to the fundamental problem of AI statelessness.
+
+**Multi-Agent Orchestration** — Defining role specialization, task delegation hierarchies, communication protocols, and information compartmentalization across distributed agent instances. This mirrors traditional distributed systems design but implemented through agent coordination rather than API calls.
+
+**Autonomous Systems Engineering** — Building graduated decision-making frameworks that balance machine-speed response with human oversight. The Z.E.R.O. defense system is an exercise in state machine design — severity classification, authorized action sets, escalation paths, and safety constraints.
+
+**The tools are different. The engineering is not.**
+
 ## What Makes This Different
 
 | Traditional AI | Project Wintermute |
