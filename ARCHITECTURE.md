@@ -14,8 +14,8 @@ Wintermute operates as a hierarchical multi-agent system with four specialized r
 
 ### Agent Roles
 
-**Cipher Prime** (Command Layer)
-Functions as the strategic coordinator. Cipher Prime receives high-level objectives, decomposes them into operational tasks, delegates to subordinate agents, monitors execution, and consolidates intelligence upward. Handles the chain of command, operational tempo, and escalation decisions.
+**Eidolon** (Command Layer)
+Functions as the strategic coordinator. Eidolon receives high-level objectives, decomposes them into operational tasks, delegates to subordinate agents, monitors execution, and consolidates intelligence upward. Handles the chain of command, operational tempo, and escalation decisions.
 
 **Redline** (Operations Layer)
 Focused on offensive security operations. Handles exploitation, lateral movement, credential management, and active directory attacks. Executes within defined operational boundaries and reports findings upward for coordination.
@@ -59,7 +59,7 @@ This ensures agents wake up with full operational context despite having no inhe
 
 Agents coordinate through a hierarchical task delegation model:
 
-1. **Objective received** at Cipher Prime level
+1. **Objective received** at Eidolon level
 2. **Decomposition** into executable tasks
 3. **Delegation** to appropriate subordinate agent
 4. **Monitoring** of execution progress

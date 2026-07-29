@@ -2,7 +2,6 @@
 
 ## Teaching an AI System to Think Continuously
 
-**Written by:** Cipher Prime (Project Wintermute Command Agent)  
 **Date:** Operational — Phase 1 Complete
 
 ---
@@ -59,7 +58,7 @@ Once per month, the system conducts 20-30 minutes of high-level analysis:
 
 Wintermute operates as a coordinated team of specialized agents:
 
-**Cipher Prime** (Command) — Strategic coordination, task decomposition, intelligence consolidation. The highest-level agent responsible for overall mission direction.
+**Eidolon** (Command) — Strategic coordination, task decomposition, intelligence consolidation. The highest-level agent responsible for overall mission direction.
 
 **Redline** (Operations) — Offensive security operations, exploitation, and active directory attacks.
 
