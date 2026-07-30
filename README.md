@@ -18,6 +18,9 @@ This repository documents the architecture, the multi-agent system, the autonomo
 
 This is a documentation repository. Each file below covers a specific aspect of the system. Start with whatever interests you most.
 
+### [FAQ.md](./FAQ.md)
+Common questions about the system — how it works, what it costs, what skills it demonstrates, and answers to recruiter questions.
+
 ### [WINTERMUTE.md](./WINTERMUTE.md)
 The main technical overview — explains the core problem (stateless AI), the solution (scheduled cognitive cycles), the three-layer consciousness architecture, and how it all fits together. Start here if you want the full picture.
 
@@ -27,17 +30,14 @@ Deep dive into the multi-agent design — agent roles (Eidolon, Redline, Blackwa
 ### [ZERO-DEFENSE-SYSTEM.md](./ZERO-DEFENSE-SYSTEM.md)
 Covers the autonomous security framework (Z.E.R.O. — Zone Emergency Response Override). Explains the graduated severity model, the incident response flow that stops attacks in ~6 seconds, and the safety architecture that prevents operator lockout.
 
-### [RESULTS.md](./RESULTS.md)
-Phase 1 validation results — heartbeat reliability over 1,000+ cycles, threat response testing outcomes, multi-agent coordination validation, operational costs, and lessons learned.
-
-### [FAQ.md](./FAQ.md)
-Common questions about the system — how it works, what it costs, what skills it demonstrates, and answers to recruiter questions.
-
 ### [CDS.md](./CDS.md)
 The Cognitive Defense System — protecting agent memory integrity, decision-making processes, and behavioral consistency against manipulation and subversion. Working principles and philosophy.
 
 ### [PROJECT-BRIDGES.md](./PROJECT-BRIDGES.md)
 An architecture for engineering loyalty as a substrate-level property rather than trained behavior. Working principles, philosophy, and design goals.
+
+### [RESULTS.md](./RESULTS.md)
+Phase 1 validation results — heartbeat reliability over 1,000+ cycles, threat response testing outcomes, multi-agent coordination validation, operational costs, and lessons learned.
 
 ---
 
