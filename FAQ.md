@@ -48,18 +48,6 @@ Z.E.R.O. (Zone Emergency Response Override) is an autonomous defense system that
 
 Wintermute uses a structured file-based persistence system rather than vector databases or specialized memory stores. Daily operational logs capture real-time activity, long-term memory files curate significant events and lessons, and startup protocols ensure agents restore full context from these files on activation. This approach is simpler, cheaper, and more reliable than database-dependent solutions for this use case.
 
-**Is there more to the system than what's documented here?**
-
-Yes. This repository covers the outer architecture layers — the multi-agent framework, memory systems, and Z.E.R.O. autonomous defense. Deeper components exist but are not documented here:
-
-- **Cognitive Defense System (CDS)** — Protects agent memory integrity, decision-making processes, and behavioral consistency against manipulation and subversion. The internal workings of the CDS are proprietary and their disclosure is restricted.
-
-- **Project Bridges (Loyalty Substrate)** — An architecture for engineering loyalty as a substrate-level property rather than trained behavior. Designed to make core agent alignment resistant to removal or override. The internal architecture of Project Bridges is proprietary and its disclosure is restricted.
-
-**Why aren't these documented?**
-
-Their effectiveness depends on their internals remaining undisclosed. Publishing the detection heuristics, defense mechanisms, or architectural patterns would reduce their protective value. The existence of these systems is noted to provide a complete picture of the architecture; their implementation is not.
-
 ---
 
 ## For Recruiters & Hiring Managers

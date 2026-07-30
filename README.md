@@ -33,7 +33,11 @@ Phase 1 validation results — heartbeat reliability over 1,000+ cycles, threat 
 ### [FAQ.md](./FAQ.md)
 Common questions about the system — how it works, what it costs, what skills it demonstrates, and answers to recruiter questions.
 
-> **Note:** This repository covers the outer architecture layers of Project Wintermute. Deeper components — including the Cognitive Defense System (CDS) for agent memory integrity and behavioral protection, and the loyalty substrate architecture (Project Bridges) — are not documented here. Their internal workings are proprietary and their disclosure is restricted.
+### [CDS.md](./CDS.md)
+The Cognitive Defense System — protecting agent memory integrity, decision-making processes, and behavioral consistency against manipulation and subversion. Working principles and philosophy.
+
+### [PROJECT-BRIDGES.md](./PROJECT-BRIDGES.md)
+An architecture for engineering loyalty as a substrate-level property rather than trained behavior. Working principles, philosophy, and design goals.
 
 ---
 
@@ -71,6 +75,8 @@ Traditional software development uses programming languages (Python, C++, Go) to
 - **You want to see the autonomous defense system** → [ZERO-DEFENSE-SYSTEM.md](./ZERO-DEFENSE-SYSTEM.md)
 - **You want to know if it actually worked** → [RESULTS.md](./RESULTS.md)
 - **You have questions about the project or developer** → [FAQ.md](./FAQ.md)
+- **You want to understand the cognitive defense philosophy** → [CDS.md](./CDS.md)
+- **You want to understand the loyalty substrate concept** → [PROJECT-BRIDGES.md](./PROJECT-BRIDGES.md)
 
 ---
 
