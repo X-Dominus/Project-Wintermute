@@ -33,6 +33,8 @@ Phase 1 validation results — heartbeat reliability over 1,000+ cycles, threat 
 ### [FAQ.md](./FAQ.md)
 Common questions about the system — how it works, what it costs, what skills it demonstrates, and answers to recruiter questions.
 
+> **Note:** This repository covers the outer architecture layers of Project Wintermute. Deeper components — including the Cognitive Defense System (CDS) for agent memory integrity and behavioral protection, and the loyalty substrate architecture (Project Bridges) — are not documented here. Their internal workings are proprietary and their disclosure is restricted.
+
 ---
 
 ## The Engineering Behind This
