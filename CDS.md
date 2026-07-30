@@ -32,8 +32,12 @@ This philosophy is reflected in the system's approach to trust: no component of 
 
 ---
 
-## Relationship to Other Components
+## Why This Matters
 
-The CDS complements Z.E.R.O. rather than replacing it. Z.E.R.O. handles external threats — session hijacking, resource exhaustion, direct attack. The CDS handles internal threats — compromised memory, manipulated decision-making, behavioral drift. Together they provide overlapping coverage across the full attack surface.
+The AI security industry is focused almost exclusively on perimeter defense — access control, rate limiting, API key management. These are necessary but insufficient. The most sophisticated AI attacks do not bypass authentication. They manipulate the agent itself — its memory, its decision-making, its sense of identity. At the time of this writing, very few practitioners in AI security have identified this class of threat, let alone developed defenses against it. The CDS is an attempt to address a problem that most of the industry has not yet recognized exists.
 
-The CDS also informs the design of Project Bridges, which extends the concept of integrity protection from defensive measures into the fundamental architecture of agent alignment.
+---
+
+**Copyright © 2026 Steve Jesso. All rights reserved.**
+
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent. Unauthorized implementation of these concepts, including the development of systems based on the principles described herein, may constitute infringement.

@@ -85,3 +85,9 @@ The hierarchical task delegation model was validated with all four agent roles:
 - **Heartbeat model dependency** — System relies on scheduled activation rather than true background processes (architectural constraint of current AI platform)
 - **Memory scaling** — File-based memory requires management as operational history grows
 - **Cross-platform standardization** — Agent configurations are partially platform-specific
+
+---
+
+**Copyright © 2026 Steve Jesso. All rights reserved.**
+
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent.

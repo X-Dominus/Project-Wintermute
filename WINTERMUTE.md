@@ -115,3 +115,9 @@ Phase 1 validated:
 ## Summary
 
 Project Wintermute demonstrates that continuous AI consciousness can be achieved through scheduling rather than architectural changes. The system is simple, cost-effective, and production-ready — proving that persistent autonomous agents are achievable with current technology when designed with the right architecture.
+
+---
+
+**Copyright © 2026 Steve Jesso. All rights reserved.**
+
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent.

@@ -101,3 +101,9 @@ Z.E.R.O. is designed for minimal operational overhead:
 - **Tier 2 investigation** — ~$0.05-0.15 per incident
 - **Tier 3 analysis** — ~$0.20-0.50 per incident (rare)
 - **Monthly total** — Typically under $5 for continuous operation
+
+---
+
+**Copyright © 2026 Steve Jesso. All rights reserved.**
+
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent.

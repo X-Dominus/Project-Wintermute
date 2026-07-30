@@ -80,3 +80,9 @@ Agents have access to a defined toolset appropriate to their role:
 - **Reporting** — structured output generation
 
 All tool usage is logged and auditable. Operational security constraints are enforced at the tool-access level, not through procedural guidelines.
+
+---
+
+**Copyright © 2026 Steve Jesso. All rights reserved.**
+
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent.

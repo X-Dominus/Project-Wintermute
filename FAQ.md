@@ -73,3 +73,9 @@ Yes. The architecture documents are written by the developer and reflect a thoro
 **What is the developer's specific role in this project?**
 
 Sole architect, engineer, and operator. Every component of Project Wintermute — from the agent identities and memory systems to the Z.E.R.O. defense framework and deployment infrastructure — was designed, implemented, tested, and documented by the developer.
+
+---
+
+**Copyright © 2026 Steve Jesso. All rights reserved.**
+
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent.

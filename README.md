@@ -82,4 +82,8 @@ Traditional software development uses programming languages (Python, C++, Go) to
 
 *This repository contains sanitized documentation of Project Wintermute's architecture and capabilities. Specific operational configurations, agent prompts, and defensive heuristics are omitted to protect operational security.*
 
+---
+
 **Copyright © 2026 Steve Jesso. All rights reserved.**
+
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent. Unauthorized implementation of these concepts, including the development of systems based on the principles described herein, may constitute infringement.

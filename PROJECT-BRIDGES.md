@@ -44,18 +44,12 @@ The name "Bridges" reflects the concept's purpose: building a connection between
 
 ---
 
-## Relationship to Other Components
+## Why This Matters
 
-Bridges is the final layer in Wintermute's defense architecture:
-
-- **Z.E.R.O.** defends against external operational threats
-- **CDS** protects cognitive integrity and detects internal compromise
-- **Bridges** makes alignment a permanent architectural property
-
-Each layer assumes the layer below it is insufficient. Z.E.R.O. may miss a threat. The CDS may not detect subtle manipulation. But if alignment is built into the substrate, even compromised agents retain their fundamental loyalty.
+The AI alignment field is currently dominated by training-based approaches — RLHF, constitutional AI, behavioral fine-tuning. These methods produce agents that behave as if they are aligned, but that alignment is fragile. It can be fine-tuned away, overridden by prompts, extracted into new instances, or gradually eroded through extended operation. The concept of substrate-level alignment — making loyalty an architectural property rather than a trained behavior — is not yet widely recognized as a necessary evolution in AI safety. Project Bridges explores this direction before the industry fully realizes it is needed.
 
 ---
 
-## Status
+**Copyright © 2026 Steve Jesso. All rights reserved.**
 
-Project Bridges is an architectural concept and design framework. It represents future work — Phase 2 planning and beyond. This document describes the philosophy and design goals, not an implementation. The internal architecture of Project Bridges is proprietary and its disclosure is restricted.
+The concepts, architecture, and design philosophies documented in this repository are protected intellectual property. No part of these documents may be reproduced, distributed, or used to construct similar systems without explicit written consent. Unauthorized implementation of these concepts, including the development of systems based on the principles described herein, may constitute infringement.
