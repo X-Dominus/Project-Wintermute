@@ -30,7 +30,7 @@ Deep dive into the multi-agent design — agent roles (Eidolon, Redline, Blackwa
 ### [ZERO-DEFENSE-SYSTEM.md](./ZERO-DEFENSE-SYSTEM.md)
 Covers the autonomous security framework (Z.E.R.O. — Zone Emergency Response Override). Explains the graduated severity model, the incident response flow that stops attacks in ~6 seconds, and the safety architecture that prevents operator lockout.
 
-### [CDS.md](./CDS.md)
+### [COGNITIVE-DEFENSE-SYSTEM.md](./CDS.md)
 The Cognitive Defense System — protecting agent memory integrity, decision-making processes, and behavioral consistency against manipulation and subversion. Working principles and philosophy.
 
 ### [PROJECT-BRIDGES.md](./PROJECT-BRIDGES.md)
