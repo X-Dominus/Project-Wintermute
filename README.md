@@ -28,6 +28,9 @@ Covers the autonomous security framework (Z.E.R.O. — Zone Emergency Response O
 ### [RESULTS.md](./RESULTS.md)
 Phase 1 validation results — heartbeat reliability over 1,000+ cycles, threat response testing outcomes, multi-agent coordination validation, operational costs, and lessons learned.
 
+### [FAQ.md](./FAQ.md)
+Common questions about the system — how it works, what it costs, what skills it demonstrates, and answers to recruiter questions.
+
 ---
 
 ## The Engineering Behind This
@@ -63,6 +66,7 @@ Traditional software development uses programming languages (Python, C++, Go) to
 - **You want to understand multi-agent architecture** → [ARCHITECTURE.md](./ARCHITECTURE.md)
 - **You want to see the autonomous defense system** → [ZERO-DEFENSE-SYSTEM.md](./ZERO-DEFENSE-SYSTEM.md)
 - **You want to know if it actually worked** → [RESULTS.md](./RESULTS.md)
+- **You have questions about the project or developer** → [FAQ.md](./FAQ.md)
 
 ---
 
