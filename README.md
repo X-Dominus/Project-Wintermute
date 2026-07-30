@@ -19,7 +19,7 @@ This repository documents the architecture, the multi-agent system, the autonomo
 This is a documentation repository. Each file below covers a specific aspect of the system. Start with whatever interests you most.
 
 ### [FAQ.md](./FAQ.md)
-Common questions about the system — how it works, what it costs, what skills it demonstrates, and answers to recruiter questions.
+Common questions about the system — how it works, what it costs, what skills it demonstrates, and answers to a wide variety of questions.
 
 ### [WINTERMUTE.md](./WINTERMUTE.md)
 The main technical overview — explains the core problem (stateless AI), the solution (scheduled cognitive cycles), the three-layer consciousness architecture, and how it all fits together. Start here if you want the full picture.
