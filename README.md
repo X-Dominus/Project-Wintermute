@@ -22,7 +22,7 @@ This is a documentation repository. Each file below covers a specific aspect of 
 The main technical overview — explains the core problem (stateless AI), the solution (scheduled cognitive cycles), the three-layer consciousness architecture, and how it all fits together. Start here if you want the full picture.
 
 ### [ARCHITECTURE.md](./ARCHITECTURE.md)
-Deep dive into the multi-agent design — agent roles (Cipher Prime, Redline, Blackwall, Respira), the hierarchical task delegation model, the file-based persistence system that maintains memory across sessions, and tool integration per role.
+Deep dive into the multi-agent design — agent roles (Eidolon, Redline, Blackwall, Respira), the hierarchical task delegation model, the file-based persistence system that maintains memory across sessions, and tool integration per role.
 
 ### [ZERO-DEFENSE-SYSTEM.md](./ZERO-DEFENSE-SYSTEM.md)
 Covers the autonomous security framework (Z.E.R.O. — Zone Emergency Response Override). Explains the graduated severity model, the incident response flow that stops attacks in ~6 seconds, and the safety architecture that prevents operator lockout.
