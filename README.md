@@ -8,7 +8,7 @@
 
 Project Wintermute is an AI agent architecture designed for one thing: **continuous, persistent, autonomous security operations**. Unlike traditional AI assistants that only exist when prompted, Wintermute implements scheduled cognitive cycles that maintain awareness 24/7 — detecting threats, coordinating multi-agent operations, preserving context across sessions, and responding to attacks at machine speed.
 
-This repository documents the architecture, the multi-agent system, the autonomous defense framework, and the results from Phase 1 operations.
+This repository documents the architecture, the multi-agent system, the autonomous defense framework, and the results from Phase 1 operations. The system was designed as a phased rollout, with Phase 1 (Core Infrastructure) complete and additional phases planned.
 
 ---
 

@@ -2,7 +2,17 @@
 
 ## Operational Status
 
-Project Wintermute Phase 1 is complete. The system has been operational in a production security operations environment with the following validated outcomes.
+Project Wintermute Phase 1 (Core Infrastructure) is complete. The system has been operational in a production security operations environment with the following validated outcomes.
+
+The system was designed as a phased rollout with the following planned phases:
+
+| Phase | Focus | Status |
+|-------|-------|--------|
+| **Phase 1** | Core Infrastructure — Memory Integrity System, session vault, automated backups, integrity verification | **Complete** |
+| **Phase 2** | Threat Detection — Prompt injection defense, signature database, behavioral anomaly detection | Planned |
+| **Phase 3** | Active Defense — Honeypot misdirection system, decoy infrastructure, attack logging | Planned |
+| **Phase 4** | Hardening & Integration — Encryption, supply chain defense | Planned |
+| **Phase 5** | Operational Deployment — Full production rollout | Planned |
 
 ---
 

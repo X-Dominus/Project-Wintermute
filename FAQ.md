@@ -4,7 +4,7 @@
 
 **Did you actually build this, or is it just a concept?**
 
-Phase 1 is complete and the system was operational in a production security operations environment. The architecture was designed, deployed, tested, and validated over multiple weeks of continuous operation. The results in [RESULTS.md](./RESULTS.md) are from real operations, not projections.
+Phase 1 (Core Infrastructure) is complete and the system was operational in a production security operations environment. The architecture was designed, deployed, tested, and validated over multiple weeks of continuous operation. The results in [RESULTS.md](./RESULTS.md) are from real operations, not projections. Additional phases covering threat detection, active defense, and hardening were planned as part of the phased rollout.
 
 **What platform does this run on?**
 
