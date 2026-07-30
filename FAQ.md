@@ -8,7 +8,9 @@ Phase 1 (Core Infrastructure) is complete and the system was operational in a pr
 
 **What platform does this run on?**
 
-The agent orchestration layer runs on Hermes Agent, an open-source AI agent framework. The cognitive architecture (agent identities, memory systems, defense protocols, operational procedures) is custom-built — that is the core contribution of Project Wintermute.
+The agent orchestration layer currently runs on Hermes Agent, an open-source AI agent framework. The cognitive architecture (agent identities, memory systems, defense protocols, operational procedures) is custom-built — that is the core contribution of Project Wintermute.
+
+The long-term goal is a complete migration to a fully air-gapped private AI system — deploying the entire stack on dedicated local hardware with offline models. This eliminates all external API calls, telemetry risks, and third-party dependencies, ensuring the system operates entirely under the operator's control.
 
 **What LLM does it use?**
 

@@ -8,6 +8,8 @@
 
 Project Wintermute is an AI agent architecture designed for one thing: **continuous, persistent, autonomous security operations**. Unlike traditional AI assistants that only exist when prompted, Wintermute implements scheduled cognitive cycles that maintain awareness 24/7 — detecting threats, coordinating multi-agent operations, preserving context across sessions, and responding to attacks at machine speed.
 
+The system currently runs on Hermes Agent as the orchestration platform with cloud-based LLM routing. The long-term goal is a complete migration to a fully air-gapped private AI system — eliminating all external API dependencies by deploying the entire stack on dedicated local hardware with offline models. This would remove telemetry risks, eliminate third-party API dependencies, and ensure the system operates entirely under the operator's control with zero external data exposure.
+
 This repository documents the architecture, the multi-agent system, the autonomous defense framework, and the results from Phase 1 operations. The system was designed as a phased rollout, with Phase 1 (Core Infrastructure) complete and additional phases planned.
 
 ---
